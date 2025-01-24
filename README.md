@@ -1,2 +1,3 @@
 # SMMA-Coding-Club
-Files for the projects in SMMA Coding Club
+## Welcome everyone this is where all your project files and folders will be stored!
+!(image1.png)

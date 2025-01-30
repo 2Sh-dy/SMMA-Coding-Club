@@ -1,5 +1,7 @@
 # SMMA-Coding-Club
 ![](image1.png)
 
-[![Tutorial on how to upload your project files:](a.png)]((https://www.youtube.com/watch?v=TYLeIWpVgD0))
+[![Tutorial on how to upload your project files:
+
+https://www.youtube.com/watch?v=TYLeIWpVgD0
 
